@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chin Yi</h1>
 <h3 align="center">A passionate ML/AI developer</h3>
 
-- 🔭 I’m currently working on **Formal Verification of TTnet**
+- 🔭 I’m currently working on **Formal Verification of TTnet** & **Legacy CNN**
 
-- 🌱 I’m refining my skills on **Tensorflow, React.js, Next.js, PyTorch**
+- 🌱 I’m refining my skills on **Tensorflow, PyTorch, C/C++,**
 
 - 📫 How to reach me **kokchinyi01@gmail.com**
 
