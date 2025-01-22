@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chin Yi</h1>
 <h3 align="center">A passionate ML/AI developer</h3>
 
-- 🔭 I’m currently working on **Formal Verification of TTnet** & **Unsupervised learning using Autoencoders - Sig Gen**
+- 🔭 I’m currently working on **Formal Verification of TTnet** & **Multi-Object Tracking using Machine Learning**
 
 - 🌱 I’m refining my skills on **Tensorflow, PyTorch, C/C++,**
 
